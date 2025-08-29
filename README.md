@@ -14,4 +14,4 @@ Lina Guarín
 Clona este repositorio con:
 
 ```bash
-git clone https://github.com/tuusuario/Interaccion-Hombre-Maquina.git
+https://github.com/lkguarinc/Interaccion-Hombre-Maquina
